@@ -69,3 +69,19 @@ This project analyzes Amazon sales data using SQL to extract meaningful business
 
 ## 🚀 SQL Queries
 All queries are available in:
+queries.sql
+
+---
+
+## 🎯 Conclusion
+This project demonstrates how SQL can be used to clean, analyze, and extract insights from real-world e-commerce data.
+
+---
+
+## 🔗 Author
+**Mohd Zibran**
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ on GitHub!
